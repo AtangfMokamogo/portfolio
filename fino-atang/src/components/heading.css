@@ -1,0 +1,12 @@
+.title_container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+#flippable-card {
+    font-size: 2rem;
+    font-weight: bold;
+    width: fit-content;
+}
